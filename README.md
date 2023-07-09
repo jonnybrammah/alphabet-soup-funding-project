@@ -24,6 +24,10 @@
 
 #### Model
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jonnybrammah/alphabet-soup-funding-project/main/Output_Images/initial_model.png" alt="Initial Model">
+</p>
+
 #### Results
 
 <p align="center">
@@ -35,6 +39,10 @@
 ### Model Optimization
 
 #### New Model
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jonnybrammah/alphabet-soup-funding-project/main/Output_Images/optimized_model.png" alt="Optimized Model">
+</p>
 
 #### Model Optimization Results
 
