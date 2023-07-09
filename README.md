@@ -26,6 +26,10 @@
 
 #### Results
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jonnybrammah/alphabet-soup-funding-project/main/Output_Images/accuracy_plot.png" alt="Initial Model Accuracy Plot">
+</p>
+
 -----
 
 ### Model Optimization
@@ -33,6 +37,10 @@
 #### New Model
 
 #### Model Optimization Results
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jonnybrammah/alphabet-soup-funding-project/main/Output_Images/optimized_accuracy_plot.png" alt="Initial Model Optimization Plot">
+</p>
 
 -----
 
