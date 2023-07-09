@@ -47,7 +47,7 @@
 #### Model Optimization Results
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jonnybrammah/alphabet-soup-funding-project/main/Output_Images/optimized_accuracy_plot.png" alt="Initial Model Optimization Plot">
+  <img src="https://raw.githubusercontent.com/jonnybrammah/alphabet-soup-funding-project/main/Output_Images/optimized_accuracy_plot_.png" alt="Initial Model Optimization Plot">
 </p>
 
 -----
